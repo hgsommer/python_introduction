@@ -8,12 +8,9 @@ course material via terminal + git clone [url]
 changes (to do):
 
 order:
-    * append dictionaries to 02-lists ?
-        (done)
     * maybe bigger exercise? like compute/plot histogram of letter freqs.
     * add lesson 9-misc -> just mention prompts, exceptions, other ways of running
         maybe also more difficult exercise?
-
 
 other ways of using python (not only jupyter)
 (mainly mentioning this is possible)
@@ -24,8 +21,6 @@ other ways of using python (not only jupyter)
 exceptions
     * low prio: throw Exception("your input was wrong") as means of simple feedback
 
-plotting (enlarge section?)
-    * no change
 
 before course:
 send reminder email (including: room, time, GWDG account, maybe try to use login?)
