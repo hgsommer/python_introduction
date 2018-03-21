@@ -5,6 +5,17 @@ jupyter.gwdg.de with gwdg account
 
 course material via terminal + git clone [url]
 
+1 Torsten
+2 Sayedeh
+3 Johannes
+4 Torsten
+5 Sayedeh
+6 Johannes
+7 Torsten
+8 Sayedeh
+9 Johannes
+(10) Sayedeh + Johannes
+
 changes (to do):
 
 order:
