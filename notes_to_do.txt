@@ -31,6 +31,10 @@ other ways of using python (not only jupyter)
 
 exceptions
     * low prio: throw Exception("your input was wrong") as means of simple feedback
+    
+scripts:
+    * example for script with arguments
+    * screenshot for pycharm / spyder
 
 
 before course:
