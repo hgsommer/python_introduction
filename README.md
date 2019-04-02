@@ -10,7 +10,7 @@ By **Jana Lasser**
 
 ## English version
 
-Translated and extended by **Torsten Eckstein**, **Filippo Cosi** and **Guus Bertens**
+Translated and extended by **Torsten Eckstein**, **Filippo Cosi**, **Guus Bertens** and **Johannes Schroeder-Schetelig**
 
 * [Source repository](https://gitlab.gwdg.de/teckste/Python_introduction) (GWDG Gitlab)
 * [Mirror of an older version](https://github.com/JanaLasser/python-introduction) (Github)
